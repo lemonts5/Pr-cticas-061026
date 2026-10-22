@@ -1,3 +1,4 @@
+Leslie Montserrath Tolentino Pelcastre 4° "C"
 Práctica 1: Mayor de Tres Números en Java
 Se desarrolló un programa que solicita al usuario tres números enteros (a, b y c). Utilizando estructuras de control if-else anidadas (un bloque dentro de otro), el programa evalúa las condiciones necesarias para determinar con total precisión cuál de los tres números es el mayor, considerando también casos de números negativos y empates.
 
