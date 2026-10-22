@@ -1,3 +1,5 @@
+Leslie Montserrath Tolentino Pelcastre 4° "C"
+
 Práctica 2: Clasificación de Calificaciones y Validación de Errores
 ¿Qué se hizo?
 Se creó un programa que recibe una calificación numérica (de 0 a 100) y arroja la letra correspondiente según una escala establecida (A, B, C, D, F). Además, se implementó una red de seguridad para detectar automáticamente números inválidos o fuera de rango (como 105 o -5).
