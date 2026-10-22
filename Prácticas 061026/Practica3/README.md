@@ -1,3 +1,5 @@
+Leslie Montserrath Tolentino Pelcastre 4° "C"
+
 Práctica 3: Desigualdad Triangular y Clasificación de Triángulos
 
 ¿Qué se hizo?
