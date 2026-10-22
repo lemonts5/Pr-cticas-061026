@@ -1,3 +1,5 @@
+Leslie Montserrath Tolentino Pelcastre 4° "C"
+
 Práctica 4: Suma Consecutiva (Ciclo For vs. Fórmula de Gauss)
 
 ¿Qué se hizo?
